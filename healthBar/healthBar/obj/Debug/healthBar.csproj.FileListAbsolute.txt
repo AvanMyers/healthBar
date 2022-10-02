@@ -1,0 +1,8 @@
+D:\Visual Studio\Project\healthBar\healthBar\bin\Debug\healthBar.exe.config
+D:\Visual Studio\Project\healthBar\healthBar\bin\Debug\healthBar.exe
+D:\Visual Studio\Project\healthBar\healthBar\bin\Debug\healthBar.pdb
+D:\Visual Studio\Project\healthBar\healthBar\obj\Debug\healthBar.csproj.AssemblyReference.cache
+D:\Visual Studio\Project\healthBar\healthBar\obj\Debug\healthBar.csproj.SuggestedBindingRedirects.cache
+D:\Visual Studio\Project\healthBar\healthBar\obj\Debug\healthBar.csproj.CoreCompileInputs.cache
+D:\Visual Studio\Project\healthBar\healthBar\obj\Debug\healthBar.exe
+D:\Visual Studio\Project\healthBar\healthBar\obj\Debug\healthBar.pdb
